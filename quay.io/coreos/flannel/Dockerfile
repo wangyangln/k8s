@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.15.0
+FROM quay.io/coreos/flannel:v0.11.0-amd64
 MAINTAINER wangy <wangyangln@dingtalk.com>
